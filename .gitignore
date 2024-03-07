@@ -2,3 +2,8 @@
 data/*
 logfile.txt
 
+
+# Useless information
+__pycache__/
+code/__pycache__
+.DS_Store
