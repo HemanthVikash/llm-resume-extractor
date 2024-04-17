@@ -62,3 +62,5 @@ The need for using LLMs here are 2-fold:
     We can have a response model that would support us getting information like:
     - Summary of the experience
     - Technical Skills used in the experience
+    
+    These valuable information, while not written by the candidates themselves, can be generated using our LLMs

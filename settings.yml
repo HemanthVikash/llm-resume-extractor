@@ -5,7 +5,7 @@ model:
 
 
 inter_text_file: data/extracted_text.txt
-source_pdf_file: data/example_resume.pdf
+source_pdf_file: data/original_resume.pdf
 
 result_file: data/result.json
 
